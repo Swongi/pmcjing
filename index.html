@@ -1,0 +1,27 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8"><title>Live2D Wallpaper</title><style>* 
+body {
+  margin: 0;
+}
+#live2d {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  bottom: 0;
+  position: absolute;
+}
+#live2d>canvas {
+  height: 100%;
+  width: 100%;
+}</style>
+</head>
+<body>       <!--백그라운드 이미지 설정 -->
+  <img src="./assets/background/bg.jpg" id="bg" style="z-index:0;  width: 100vw; height: 100vh;overflow: hidden;position: absolute;"></img> 
+  <div id="live2d" style=" z-index:1;"></div>
+  <script src="./assets/js/jquery-3.4.1.js"></script>
+  <script src="./assets/js/pixi.min.js"></script>
+  <script src="./assets/js/live2dcubismcore.min.js"></script>
+  <script src="./assets/js/cubism4.min.js"></script>
+  <script src="./assets/js/model.js"></script>
+  <script src="./assets/js/function.js"></script>
+</body>
+</html>

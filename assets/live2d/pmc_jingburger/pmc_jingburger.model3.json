@@ -1,0 +1,41 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "pmc_jingburger.moc3",
+		"Textures": [
+			"pmc_jingburger.2048/texture_00.png"
+		],
+		"Physics": "pmc_jingburger.physics3.json",
+		"DisplayInfo": "pmc_jingburger.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/idle1.motion3.json"
+				}
+			],
+			"TapBody": [
+				{
+					"File": "motions/shoot.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": "Body"
+		}
+	]
+}

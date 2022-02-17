@@ -1,0 +1,391 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAhogeX",
+			"GroupId": "ParamGroup",
+			"Name": "ahoge x"
+		},
+		{
+			"Id": "ParamAhogeY",
+			"GroupId": "ParamGroup",
+			"Name": "ahoge y"
+		},
+		{
+			"Id": "ParamHairFFP0",
+			"GroupId": "ParamGroup",
+			"Name": "hair F F p 0"
+		},
+		{
+			"Id": "ParamHairFFP1",
+			"GroupId": "ParamGroup",
+			"Name": "hair F F p 1"
+		},
+		{
+			"Id": "ParamHairFP",
+			"GroupId": "ParamGroup",
+			"Name": "hair F p"
+		},
+		{
+			"Id": "ParamHairFRP",
+			"GroupId": "ParamGroup",
+			"Name": "hair F R p"
+		},
+		{
+			"Id": "ParamHairFRTipP",
+			"GroupId": "ParamGroup",
+			"Name": "hair F R tip p"
+		},
+		{
+			"Id": "ParamHairFLP",
+			"GroupId": "ParamGroup",
+			"Name": "hair F L p"
+		},
+		{
+			"Id": "ParamHairFLTipP",
+			"GroupId": "ParamGroup",
+			"Name": "hair F L tip p"
+		},
+		{
+			"Id": "ParamHairRP0",
+			"GroupId": "ParamGroup",
+			"Name": "hair R p 0"
+		},
+		{
+			"Id": "ParamHairRP1",
+			"GroupId": "ParamGroup",
+			"Name": "hair R p 1"
+		},
+		{
+			"Id": "ParamHairLP0",
+			"GroupId": "ParamGroup",
+			"Name": "hair L p 0"
+		},
+		{
+			"Id": "ParamHairLP1",
+			"GroupId": "ParamGroup",
+			"Name": "hair L p 1"
+		},
+		{
+			"Id": "ParamHairLTipP",
+			"GroupId": "ParamGroup",
+			"Name": "hair L tip p"
+		},
+		{
+			"Id": "ParamHairRBP0",
+			"GroupId": "ParamGroup",
+			"Name": "hair R B p 0"
+		},
+		{
+			"Id": "ParamHairRBP1",
+			"GroupId": "ParamGroup",
+			"Name": "hair R B p 1"
+		},
+		{
+			"Id": "ParamHairRBTipP",
+			"GroupId": "ParamGroup",
+			"Name": "hair R B tip p"
+		},
+		{
+			"Id": "ParamHairBR0",
+			"GroupId": "ParamGroup",
+			"Name": "hair B R 0"
+		},
+		{
+			"Id": "ParamHairBR1",
+			"GroupId": "ParamGroup",
+			"Name": "hair B R 1"
+		},
+		{
+			"Id": "ParamHairBR2",
+			"GroupId": "ParamGroup",
+			"Name": "hair B R 2"
+		},
+		{
+			"Id": "ParamHairBL",
+			"GroupId": "ParamGroup",
+			"Name": "hair B L"
+		},
+		{
+			"Id": "ParamHairBLTip",
+			"GroupId": "ParamGroup",
+			"Name": "hair B L tip"
+		},
+		{
+			"Id": "ParamHairBLTip1",
+			"GroupId": "ParamGroup",
+			"Name": "hair B L tip 1"
+		},
+		{
+			"Id": "ParamIdcard0",
+			"GroupId": "ParamGroup2",
+			"Name": "id card 0"
+		},
+		{
+			"Id": "ParamIdcard1",
+			"GroupId": "ParamGroup2",
+			"Name": "id card 1"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "각도 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "각도 Y"
+		},
+		{
+			"Id": "ParamYAngle",
+			"GroupId": "",
+			"Name": "Y angle"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "왼쪽 눈 깜빡임"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "오른쪽 눈 깜빡임"
+		},
+		{
+			"Id": "ParamHighlightOn",
+			"GroupId": "",
+			"Name": "highlight on"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "눈 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "눈 Y"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "입 여닫기"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "몸의 회전 X"
+		},
+		{
+			"Id": "ParamBodyRecoil",
+			"GroupId": "",
+			"Name": "body recoil"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "호흡"
+		},
+		{
+			"Id": "ParamShoulderRX",
+			"GroupId": "",
+			"Name": "shoulder R x"
+		},
+		{
+			"Id": "ParamShoulderRY",
+			"GroupId": "",
+			"Name": "shoulder R y"
+		},
+		{
+			"Id": "ParamElbowX",
+			"GroupId": "",
+			"Name": "elbow x"
+		},
+		{
+			"Id": "ParamElbowAngle",
+			"GroupId": "",
+			"Name": "elbow angle"
+		},
+		{
+			"Id": "ParamHandRSwitch",
+			"GroupId": "",
+			"Name": "hand R switch"
+		},
+		{
+			"Id": "ParamWristAngle",
+			"GroupId": "",
+			"Name": "wrist angle"
+		},
+		{
+			"Id": "ParamRecoilX",
+			"GroupId": "",
+			"Name": "recoil x"
+		},
+		{
+			"Id": "ParamElbowL",
+			"GroupId": "",
+			"Name": "elbow L"
+		},
+		{
+			"Id": "ParamGrip",
+			"GroupId": "",
+			"Name": "grip"
+		},
+		{
+			"Id": "ParamGunX",
+			"GroupId": "",
+			"Name": "gun x"
+		},
+		{
+			"Id": "ParamGunY",
+			"GroupId": "",
+			"Name": "gun y"
+		},
+		{
+			"Id": "ParamPumping",
+			"GroupId": "",
+			"Name": "pumping"
+		},
+		{
+			"Id": "ParamShellOp",
+			"GroupId": "",
+			"Name": "shell op"
+		},
+		{
+			"Id": "ParamReload",
+			"GroupId": "",
+			"Name": "reload"
+		},
+		{
+			"Id": "ParamEject",
+			"GroupId": "",
+			"Name": "eject"
+		},
+		{
+			"Id": "ParamFlame",
+			"GroupId": "",
+			"Name": "flame"
+		},
+		{
+			"Id": "ParamSmoke",
+			"GroupId": "",
+			"Name": "smoke"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "hair physics"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "physics"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "hand R"
+		},
+		{
+			"Id": "m780",
+			"Name": "m780"
+		},
+		{
+			"Id": "head",
+			"Name": "head"
+		},
+		{
+			"Id": "Part6",
+			"Name": "arm R"
+		},
+		{
+			"Id": "badge",
+			"Name": "badge"
+		},
+		{
+			"Id": "Part7",
+			"Name": "id card"
+		},
+		{
+			"Id": "leg",
+			"Name": "leg"
+		},
+		{
+			"Id": "burger",
+			"Name": "burger"
+		},
+		{
+			"Id": "Part10",
+			"Name": "arm L"
+		},
+		{
+			"Id": "sight",
+			"Name": "sight"
+		},
+		{
+			"Id": "rail",
+			"Name": "rail"
+		},
+		{
+			"Id": "barrel",
+			"Name": "barrel"
+		},
+		{
+			"Id": "Part11",
+			"Name": "gun body"
+		},
+		{
+			"Id": "Part",
+			"Name": "eye R"
+		},
+		{
+			"Id": "Part2",
+			"Name": "eye L"
+		},
+		{
+			"Id": "mouth",
+			"Name": "mouth"
+		},
+		{
+			"Id": "Part3",
+			"Name": "hair F&R"
+		},
+		{
+			"Id": "Part4",
+			"Name": "hair L"
+		},
+		{
+			"Id": "Part8",
+			"Name": "leg R"
+		},
+		{
+			"Id": "Part9",
+			"Name": "leg L"
+		},
+		{
+			"Id": "brace",
+			"Name": "brace"
+		},
+		{
+			"Id": "Part12",
+			"Name": "fingers"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAhogeX",
+			"ParamAhogeY"
+		],
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	]
+}
